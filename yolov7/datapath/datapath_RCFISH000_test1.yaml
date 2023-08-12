@@ -1,0 +1,6 @@
+#path: ../datasets
+train: ./mydatasets/OzFish_train.txt
+val: ./mydatasets/OzFish_test.txt
+
+nc: 1
+names: ['fish']

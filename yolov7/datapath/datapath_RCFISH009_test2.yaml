@@ -1,0 +1,6 @@
+#path: ../datasets
+train: ./mydatasets/OzFish_test_grayscale.txt
+val: ./mydatasets/TWFDB_grayscale.txt
+
+nc: 11
+names: ['fish','angelfish','butterflyfish','grouper','grunt','humphead parrotfish','humphead wrasse','moorish idol','moray eel','parrotfish','snapper']

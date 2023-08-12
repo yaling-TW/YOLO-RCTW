@@ -1,0 +1,6 @@
+#path: ../datasets
+train: ./mydatasets/OzFish_train.txt
+val: ./mydatasets/OzFish_test.txt
+
+nc: 11
+names: ['fish','angelfish','butterflyfish','grouper','grunt','humphead parrotfish','humphead wrasse','moorish idol','moray eel','parrotfish','snapper']
